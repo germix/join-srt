@@ -1,1 +1,3 @@
-# join-srt
+JoinSRT
+
+Unificar archivos de subtitulos SRT
